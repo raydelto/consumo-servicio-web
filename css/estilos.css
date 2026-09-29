@@ -1,0 +1,16 @@
+.seccion {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+}
+
+.cabecera {
+    font-size: 24px;
+    color: rgb(31, 108, 185);
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.contenido {
+    font-size: 18px;
+    color: rgb(7, 121, 71);
+}
